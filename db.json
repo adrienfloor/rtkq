@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Donnie Hessel",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Unbranded Soft Keyboard",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Fantastic Steel Keyboard",
+      "id": 16
+    },
+    {
+      "userId": 4,
+      "title": "Fantastic Concrete Towels",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Cotton Gloves",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4006",
+      "id": 3
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=56881",
+      "id": 5
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5415",
+      "id": 6
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=35380",
+      "id": 7
+    }
+  ]
+}
